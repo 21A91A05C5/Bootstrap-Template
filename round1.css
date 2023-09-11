@@ -1,0 +1,76 @@
+#one{
+	height:75%;
+	width:75%;
+}
+#but1{
+	border: 1px solid blue;
+	font-color:blue;
+}
+#box1{
+	height:80px;
+	width:80px;
+	border-radius:390px;
+}
+#para1{
+	opacity: 0.5px;
+}
+#img2{
+	height: 100%;
+	width: 90%;
+
+}
+#icon{
+	color: white;
+	font-size: 40px;
+}
+#a9{
+	height: 100%;
+	width: 100%;
+}
+#a10{
+	padding-top: 30px;
+}
+#a14{
+	color: purple;
+}
+.a15{
+	margin-top: 50px;
+}
+/*#a16{
+	font-size: 25px;
+}*/
+/*.card{
+	border: none;
+}*/
+.bg4{
+	/*height: 100%;
+	width: 100%;*/
+	width: 100%;
+	background-image: url("im4.jpeg");
+	height: 700px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin: 0;   
+}
+#work{
+	color: white;
+	font-size: 50px;
+	margin-top: 200px;
+	margin-left: 100px;
+	font-weight: bold;
+}
+#cardimg{
+	height: 300px;
+	width: 300px;
+}
+#para{
+	font-size: 20px;
+	color: darkblue;
+	font-weight: bold;
+}
+#form{
+	font-size: 50px;
+	margin-top: 40px;
+	/*margin-left: 30px;*/
+}
